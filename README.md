@@ -2,6 +2,15 @@
 
 > **"Closing the Loop Between City Waste & Farm Need"**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Active-047857?style=for-the-badge&logo=vercel)](https://temporary-express-delta-qo0bgr0.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-VeerOP%2FAgroLoop-black?style=for-the-badge&logo=github)](https://github.com/VeerOP/AgroLoop)
+[![Award](https://img.shields.io/badge/Award-3rd%20Position%20INNOVATE%20360°-d97706?style=for-the-badge)](file:///Users/veernagda/Downloads/DE-Project/Certificate.png)
+
+🌐 **Live Working Link**: [https://temporary-express-delta-qo0bgr0.vercel.app](https://temporary-express-delta-qo0bgr0.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/VeerOP/AgroLoop](https://github.com/VeerOP/AgroLoop)  
+📄 **Final Project Report (PDF)**: [`AgroLoop_Design_Experience_Project_Report.pdf`](file:///Users/veernagda/Downloads/DE-Project/AgroLoop_Design_Experience_Project_Report.pdf)  
+📊 **Presentation Deck (PPTX)**: [`AgroLoop_Design_Experience_Pitch.pptx`](file:///Users/veernagda/Downloads/DE-Project/AgroLoop_Design_Experience_Pitch.pptx)  
+
 AgroLoop is a complete, modern, full-stack circular economy platform prototype built for Mumbai, Maharashtra, India. It connects urban kitchen waste collection from households and commercial restaurants with bio-processing (Vermicomposting, Biochar, Liquid Bio-Fertiliser, Bokashi) and direct agricultural distribution to smallholder farmers with AI-assisted agronomist crop advisory.
 
 ---
